@@ -96,7 +96,6 @@
 <div class="wrap-header">
 <header> 
 	<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
-	
 	<nav>
 		<ul>
 			<li class="current"><a href="#">Home</a></li>
@@ -114,37 +113,40 @@
 <section class="featured">
 	<div id="container">
 		<div class="flexslider">
-			<ul class="slides">
-				<li>
-					<a href="#"><img src="images/img01.jpg" /></a>
-					<div class="flex-caption">
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis porttitor massa eget pretium. Mauris vel erat sem, id tempor est. Pellentesque lobortis iaculis massa quis auctor.</p>
-					</div>
-				</li>
-				<li>
-					<a href="#"><img src="images/img02.jpg" /></a>
-					<div class="flex-caption">
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis porttitor massa eget pretium. Mauris vel erat sem, id tempor est. Pellentesque lobortis iaculis massa quis auctor.</p>
-					</div>
-				</li>
-				<li>
-					<a href="#"><img src="images/img03.jpg" /></a>
-					<div class="flex-caption">
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis porttitor massa eget pretium. Mauris vel erat sem, id tempor est. Pellentesque lobortis iaculis massa quis auctor.</p>
-					</div>
-				</li>
-				<li>
-					<a href="#"><img src="images/img04.jpg" /></a>
-					<div class="flex-caption">
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis porttitor massa eget pretium. Mauris vel erat sem, id tempor est. Pellentesque lobortis iaculis massa quis auctor.</p>
-					</div>
-				</li>
-			</ul>
-	    </div>
+							<ul class="slides">
+								<li>
+									<img src="images/image-slider-1.png" alt="" />
+										<div class="flex-caption">
+											<h3>Lorem ipsum dolor sit amet</h3>
+										</div>
+								</li>
+								<li>
+									<a href="#"><img src="images/image-slider-2.png" alt="" /></a>
+										<div class="flex-caption">
+											<h3>Test Caption 2</h3>
+										</div>
+									</li>
+								<li>
+									<img src="images/image-slider-3.png" alt="" />
+									<div class="flex-caption">
+											<h3>Test Caption 3</h3>
+										</div>
+								</li>
+								<li>
+									<img src="images/image-slider-4.png" alt="" />
+									<div class="flex-caption">
+											<h3>Test Caption 4</h3>
+										</div>
+								</li>
+								<li>
+									<img src="images/image-slider-5.png" alt="" />
+									<div class="flex-caption">
+											<h3>Test Caption 5</h3>
+										</div>
+								</li>
+								
+							</ul>
+						</div>
 	</div>
 	<span id="responsiveFlag"></span>
 </section>

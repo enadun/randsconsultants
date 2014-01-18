@@ -80,6 +80,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endCol
 		background: rgba(0,0,0,.3);
 	}
 }
+/*
 @media handheld, only screen and (min-width: 1024px) {
 	.flexslider .slides > li {
 		display:block;
@@ -96,4 +97,4 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endCol
 		padding:20px 30px;
 	}	
 	#responsiveFlag{display:block;}
-}
+}*/
