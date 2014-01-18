@@ -8,9 +8,9 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>R&S Consultant</title>
-	
-	<meta name="author" content="www.zerotheme.com">
+	<title>Randsconsultants</title>
+	<meta name="description" content="R&S Consultants LTD | randsconsultants.org">
+	<meta name="author" content="www.randsconsultants.org">
 	
     <!-- Mobile Specific Metas
   ================================================== -->
@@ -156,7 +156,7 @@
 <section id="content">
 	<div class="zerogrid">		
 		<div class="row">
-			<div id="main-content" class="col-2-3">
+			<div id="main-content" class="col-2-3" style="padding: 0 0 4px 110px;">
 				<article>
 					<div class="heading">
 						<h2><a href="#">Flexible fee</a></h2>
@@ -166,7 +166,7 @@
 						<p>We always guarantee that we either match or provide services for  cheaper cost than our competitors. Some clients opt for an All Inclusive contract, in which monthly fees are fixed which reduces financial risk and provides predictable cash-flow. Others opt for Variable Rate agreements, where fees vary according to demand and usage. Overall, we aim to offer flexibility to suit all budgets.</p>
 						
 						
-					</div>
+				  </div>
 				</article>
 				<article>
 					<div class="heading">
@@ -176,7 +176,7 @@
 					<div class="content">
 						<p>Our job and aim  is to do the best job for you, and that is why our clients control the bonuses received by our consultants. If you are unhappy with the service you receive, we give you an option to explain why you are unhappy & we would provide you extra services for that to make you happy & to make your business successful</p>
 						
-					</div>
+				  </div>
 				</article>
 				<article>
 					<div class="heading">
@@ -186,85 +186,8 @@
 					<div class="content">
 						<p>Our company & business in mainly depended  on your satisfaction for the service we provide.  Our clients ,/customers are welcome to contact our consultants in the whole week. We are always flexible  to provide the best service to you. we believe the attitude & Flexibility we have been and we always have with our clients is highly important for our business.</p>
 						
-					</div>
+				  </div>
 				</article>
-			</div>
-            
-			<div id="sidebar" class="col-1-3">
-				<section>
-					<div class="wrap-search">
-						<div id="search">
-							<div class="button-search"></div>
-							<input type="text" value="Search..." onFocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}" onBlur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
-						</div>
-					</div>
-					<div class="social">
-						<a href="#"><img src="images/facebook-icon.png" title="Facebook" /></a>
-						<a href="#"><img src="images/rss-icon.png" title="Rss"/></a>
-						<a href="#"><img src="images/google-icon.png" title="Google Plus"/></a>
-						<a href="#"><img src="images/linkedin-icon.png" title="Linkedin"/></a>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>About us</h2></div>
-					<div class="content">
-						<img src="images/zerotheme.png" style="border:none;"/>
-						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files.</p>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Categories</h2></div>
-					<div class="content">
-						<ul>
-							<li><a href="http://www.zerotheme.com">Free Html5 Templates</a></li>
-							<li><a href="http://www.zerotheme.com">Free Responsive Themes</a></li>
-							<li><a href="http://www.zerotheme.com">Free Html5 and Css3 Themes</a></li>
-						</ul>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Gallery</h2></div>
-					<div class="content">
-						<div class="gallery">
-							<a href="#"><img src="images/port1.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port2.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port3.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port1.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port2.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port3.jpg" class="grayscale"/></a>
-						</div>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Popular Post</h2></div>
-					<div class="content">
-						<div class="post">
-							<img src="images/port1.jpg" width="50px"/>
-							<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port2.jpg" width="50px"/>
-							<h4><a href="#">Aliquam viverra convallis</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port3.jpg" width="50px"/>
-							<h4><a href="#">TSed accumsan libero</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port1.jpg" width="50px"/>
-							<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port2.jpg" width="50px"/>
-							<h4><a href="#">Aliquam viverra convallis</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-					</div>
-				</section>
 			</div>
 		</div>
 	</div>

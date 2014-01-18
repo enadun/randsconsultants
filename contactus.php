@@ -8,9 +8,9 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>zMooncake Free Html5 Responsive Template</title>
-	<meta name="description" content="Free Html5 Templates and Free Responsive Themes Designed by Kimmy | zerotheme.com">
-	<meta name="author" content="www.zerotheme.com">
+	<title>Randsconsultants</title>
+	<meta name="description" content="R&S Consultants LTD | randsconsultants.org">
+	<meta name="author" content="www.randsconsultants.org">
 	
     <!-- Mobile Specific Metas
   ================================================== -->
@@ -98,7 +98,7 @@
 	<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
 	
 	<nav>
-		<ul>
+	  <ul>
 			<li><a href="index.php">Home</a></li>
 			<li><a href="services.php">Services</a></li>
 			<li><a href="whyus.php">Why us</a></li>
@@ -156,7 +156,7 @@
 <section id="content">
 	<div class="zerogrid">		
 		<div class="row">
-		  <div id="main-content" class="col-2-3">
+		  <div id="main-content" class="col-2-3" style="padding: 0 0 4px 100px;">
 				<article>
 					<div class="heading">
 						<h2><a href="#">Contact us</a></h2>

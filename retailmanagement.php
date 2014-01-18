@@ -8,9 +8,9 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>zMooncake Free Html5 Responsive Template</title>
-	<meta name="description" content="Free Html5 Templates and Free Responsive Themes Designed by Kimmy | zerotheme.com">
-	<meta name="author" content="www.zerotheme.com">
+	<title>Randsconsultants</title>
+	<meta name="description" content="R&S Consultants LTD | randsconsultants.org">
+	<meta name="author" content="www.randsconsultants.org">
 	
     <!-- Mobile Specific Metas
   ================================================== -->
@@ -98,7 +98,7 @@
 	<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
 	
 	<nav>
-		<ul>
+	  <ul>
 			<li><a href="index.php">Home</a></li>
 			<li><a href="services.php">Services</a></li>
 			<li><a href="whyus.php">Why us</a></li>
@@ -156,7 +156,7 @@
 <section id="content">
 	<div class="zerogrid">		
     <div class="row">
-			<div id="main-content" class="col-2-3">
+			<div id="main-content" class="col-2-3" style="padding: 0 0 4px 110px;">
 				<article>
 					<div class="heading">
 						<h2>Retail  Management</h2>
@@ -192,27 +192,7 @@
 				</article>
                 
 			</div>
-            
-		  <div id="sidebar" class="col-1-3">
-		    <section>
-			  <div class="heading"><h2>About us</h2></div>
-					<div class="content">
-						<img src="images/zerotheme.png" style="border:none;"/>
-						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files.</p>
-					</div>
-			</section>
-		    <section>
-					<div class="heading"><h2>Categories</h2></div>
-					<div class="content">
-						<ul>
-							<li><a href="http://www.zerotheme.com">Free Html5 Templates</a></li>
-							<li><a href="http://www.zerotheme.com">Free Responsive Themes</a></li>
-							<li><a href="http://www.zerotheme.com">Free Html5 and Css3 Themes</a></li>
-						</ul>
-					</div>
-			  </section>
-			</div>
-		</div>
+    </div>
 	</div>
 </section>
 <!--------------Footer--------------->
