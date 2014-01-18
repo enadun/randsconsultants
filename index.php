@@ -26,7 +26,8 @@
 	<!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
-           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You 
+are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
         </a>
       </div>
     <![endif]-->
@@ -168,26 +169,37 @@
 						<img src="images/inacup_vanilla.jpg"/>
 					</div>
 					<div class="content">
-						<p>A well written ,detailed and  comprehensive marketing & business plan is  one of the focal points of all business ventures because it describes how you plan to attract and retain clients or customers, the most crucial aspect of a business.</p>
-						<p>The marketing plan plays a vital role in  any successful business. It is the heart of the business, the basis from which all other operational and management plans are derived. Marketing offers you a wealth of information that if applied correctly virtually can ensure your success.</p>
-                        <p>Therefore, it is important that you, as a first-time business owner, develop a comprehensive, effective marketing plan. We, R&S Consultants assist you in accomplishing this task in a professional and advanced manner As one of the best consultancy firms  in the UK we always make sure our clients receive the best service for the money they spend. Mainly we supports ,</p>
-						 <ul><li><h4 style="display: inline; width:5%;">1. Business Planning </h4>
-                        		 <h4 style="display: inline; width:5%;">2. Marketing Planning </h4>
-                        		 <h4 style="display: inline; width:5%;">3. Investment Planning </h4></li>
+						<p>A well written ,detailed and  comprehensive marketing & business plan is  one of the focal points of all 
+business ventures because it describes how you plan to attract and retain clients or customers, the most 
+crucial aspect of a business.</p>
+						<p>The marketing plan plays a vital role in  any successful business. It is the heart of the business, the basis 
+from which all other operational and management plans are derived. Marketing offers you a wealth of information 
+that if applied correctly virtually can ensure your success.</p>
+                        <p>Therefore, it is important that you, as a first-time business owner, develop a comprehensive, effective 
+marketing plan. We, R&S Consultants assist you in accomplishing this task in a professional and advanced 
+manner As one of the best consultancy firms  in the UK we always make sure our clients receive the best 
+service for the money they spend. Mainly we supports ,</p>
+						 <ul><li><h4 style="display: inline; width:5%;">1. Business Planning </h4></li>
+                        		 <li><h4 style="display: inline; width:5%;">2. Marketing Planning </h4></li>
+                        		 <li><h4 style="display: inline; width:5%;">3. Investment Planning </h4></li>
                              <li><h4 style="display: inline; width:5%;">4. Staff training and recruitment </h4>
-                        		 <h4 style="display: inline; width:5%;">5. New business start-up support</h4></li>
+                        		 <li><h4 style="display: inline; width:5%;">5. New business start-up support</h4></li>
                              <li><h4 style="display: inline; width:5%;">6. Management Consultant </h4></li></ul>
-                             <p>We help any sort of  business to be top in the country with our expertise supervision. Our professional & experienced consultants will help you to understand what is most important to  start and improve your business, sales   and more importantly help you to understand what has not been working for you. We will introduce you new  methods which you can use in your business  and we assure you, we change your business to a profitable one.</p>
-                             <p>As a well experienced consultancy firm, R&S Consultants LTD helps you to improve your business with so many proven procedures. We guarantee that our advices and guidance are well worth to improve your business.</p>
+                             <p>We help any sort of  business to be top in the country with our expertise supervision. Our 
+professional & experienced consultants will help you to understand what is most important to  start and 
+improve your business, sales   and more importantly help you to understand what has not been working for 
+you. We will introduce you new  methods which you can use in your business  and we assure you, we change 
+your business to a profitable one.</p>
+                             <p>As a well experienced consultancy firm, R&S Consultants LTD helps you to improve your business with 
+so many proven procedures. We guarantee that our advices and guidance are well worth to improve your 
+business.</p>
                              
 					</div>
 				</article>
 				<article>
 					<div class="heading">
-						<h3><u>Our Guaranteed Business Policy for our Clients</u></h3>
-					</div>
-					<div class="content">
-						<p>&nbsp;</p>
+						<h3>Our Guaranteed Business Policy for our Clients</h3>
+						<img src="images/flow-chart.png"/>
 					</div>
 				</article>
 			</div>
@@ -196,7 +208,8 @@
 					<div class="wrap-search">
 						<div id="search">
 							<div class="button-search"></div>
-							<input type="text" value="Search..." onFocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}" onBlur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
+							<input type="text" value="Search..." onFocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}"
+ onBlur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
 						</div>
 					</div>
 					<div class="social">
@@ -210,7 +223,9 @@
 					<div class="heading"><h2>About us</h2></div>
 					<div class="content">
 						<img src="images/zerotheme.png" style="border:none;"/>
-						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files.</p>
+						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the 
+template for both personal and commercial use. You must keep all copyright information and credit links in the 
+template and associated files.</p>
 					</div>
 				</section>
 				<section>
@@ -274,7 +289,8 @@
 <div class="wrap-footer">
 	<footer>
 		<div class="wrapfooter">
-		<p>Copyright © 2012 - <a href="http://www.zerotheme.com/432/free-responsive-html5-css3-website-templates.html" target="_blank">Free Responsive Html5 Templates</a> by <a href="http://www.zerotheme.com" target="_blank">Zerotheme.com</a></p>
+		<p>Copyright © 2012 - <a href="http://www.zerotheme.com/432/free-responsive-html5-css3-website-templates.html" target="_blank">
+Free Responsive Html5 Templates</a> by <a href="http://www.zerotheme.com" target="_blank">Zerotheme.com</a></p>
 		</div>
 	</footer>
 </div>
