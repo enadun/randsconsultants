@@ -99,11 +99,11 @@
 	
 	<nav>
 		<ul>
-			<li class="current"><a href="index.php">Home</a></li>
+			<li><a href="index.php">Home</a></li>
 			<li><a href="services.php">Services</a></li>
 			<li><a href="whyus.php">Why us</a></li>
-			<li><a href="retail-management.php">Retail Management</a></li>
-			<li><a href="contactus.php">Contact Us</a></li>
+			<li><a href="retailmanagement.php">Retail Management</a></li>
+			<li class="current"><a href="#">Contact Us</a></li>
 		</ul>
 	</nav>
 </header>
