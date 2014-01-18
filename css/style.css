@@ -37,9 +37,9 @@ header #logo {position:absolute; top:20px; left: 30px; width: 100%;}
 /*------------menu */
 header nav {position:absolute;top:50px; right:50px; height: 37px;}
 header nav ul {list-style: none;margin: 0;padding: 0;}
-header nav ul li {position: relative;float: left;padding: 0px 5px 0px 5px; border-right:1px dotted #FFF;}
+header nav ul li {position: relative;float: left;padding: 0px 5px 0px 5px; border-right:1px solid #FFF;}
 header nav ul li:hover, header nav ul li.current {background-color:#E36C0A;}
-header nav ul li a {font-size: 12px; line-height:14px;color: #CCC;display: block;padding: 0px 10px;margin-bottom: 5px;z-index: 6;position: relative;font-weight:bold; text-transform:uppercase;}
+header nav ul li a {font-size: 13px; line-height:13px;color: #CCC;display: block;padding: 0px 5px; margin-bottom: 2px; margin-top: 2px; z-index: 6;position: relative;font-weight:bold; text-transform:uppercase;}
 header nav ul li:hover a, header nav ul li.current a{color:#ffffff;}
 
 .featured{width:960px; margin:50px auto 0 auto; padding-bottom:50px; margin-bottom:10px; border-bottom:1px dotted #9A9A9A;}
