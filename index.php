@@ -8,8 +8,8 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>zMooncake Free Html5 Responsive Template</title>
-	<meta name="description" content="Free Html5 Templates and Free Responsive Themes Designed by Kimmy | zerotheme.com">
+	<title>Randsconsultants</title>
+	<meta name="description" content="Randsconsultants | www.randsconsultants.org">
 	<meta name="author" content="www.zerotheme.com">
 	
     <!-- Mobile Specific Metas
@@ -156,45 +156,34 @@
 			<div id="main-content" class="col-2-3">
 				<article>
 					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
+						
 						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
+							
+						  <div class="clearboth"></div>
 						</div>
 						<img src="images/inacup_vanilla.jpg"/>
 					</div>
 					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio.</p>
-						<a class="more" href="#">Read more --></a>
+						<p>A well written ,detailed and  comprehensive marketing & business plan is  one of the focal points of all business ventures because it describes how you plan to attract and retain clients or customers, the most crucial aspect of a business.</p>
+						<p>The marketing plan plays a vital role in  any successful business. It is the heart of the business, the basis from which all other operational and management plans are derived. Marketing offers you a wealth of information that if applied correctly virtually can ensure your success.</p>
+                        <p>Therefore, it is important that you, as a first-time business owner, develop a comprehensive, effective marketing plan. We, R&S Consultants assist you in accomplishing this task in a professional and advanced manner As one of the best consultancy firms  in the UK we always make sure our clients receive the best service for the money they spend. Mainly we supports ,</p>
+						 <ul><li><h4 style="display: inline; width:5%;">1. Business Planning </h4>
+                        		 <h4 style="display: inline; width:5%;">2. Marketing Planning </h4>
+                        		 <h4 style="display: inline; width:5%;">3. Investment Planning </h4></li>
+                             <li><h4 style="display: inline; width:5%;">4. Staff training and recruitment </h4>
+                        		 <h4 style="display: inline; width:5%;">5. New business start-up support</h4></li>
+                             <li><h4 style="display: inline; width:5%;">6. Management Consultant </h4></li></ul>
+                             <p>We help any sort of  business to be top in the country with our expertise supervision. Our professional & experienced consultants will help you to understand what is most important to  start and improve your business, sales   and more importantly help you to understand what has not been working for you. We will introduce you new  methods which you can use in your business  and we assure you, we change your business to a profitable one.</p>
+                             <p>As a well experienced consultancy firm, R&S Consultants LTD helps you to improve your business with so many proven procedures. We guarantee that our advices and guidance are well worth to improve your business.</p>
+                             
 					</div>
 				</article>
 				<article>
 					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
-						<img src="images/inacup_samoa.jpg" />
+						<h3><u>Our Guaranteed Business Policy for our Clients</u></h3>
 					</div>
 					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<a class="more" href="#">Read more --></a>
-					</div>
-				</article>
-				<article>
-					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
-						<img src="images/inacup_pumpkin.jpg" />
-					</div>
-					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<a class="more" href="#">Read more --></a>
+						<p>&nbsp;</p>
 					</div>
 				</article>
 			</div>
