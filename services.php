@@ -26,7 +26,8 @@
 	<!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
-           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You 
+are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
         </a>
       </div>
     <![endif]-->
@@ -159,84 +160,66 @@
 			<div id="main-content" class="col-2-3">
 				<article>
 					<div class="heading">
-						<h2>"BUSINESS CONSULTAION"</h2>
-						 <div class="info">
+						<h2>BUSINESS CONSULTAION</h2>
+						<div class="info">
 							<ul>
 							  <li>
 							    <h2>Business Planning</h2>
-							  </li>
-							  <li></li></ul>
-							<div class="clearboth"></div>
-					  </div>
-						<img src="images/inacup_vanilla.jpg"/>
-					</div>
-                    <div class="info">
-							<ul>
-							  <li>
-							    <h2>Business Planning</h2>
-							  </li>
-							  <li></li></ul>
-							<div class="clearboth"></div>
 				  </div>
+						<img src="images/business_planing.jpg"/>
+					</div>
 			  <div class="content">
-						<p>All our Business services are designed to produce professional & modern Business plans  which are written to achieve their purpose and have content relevant to your business proposition.</p>
-						<p>Our fees also are  reasonable and  we guarantee that  our well experienced Consultants provide you the most suitable business plan for your business.  Business plan we provide you explain all the expected outcome with relevant input you would be putting to your business. We provide  Face to face meetings with you in your locality are included in our full planning consultancy services as is desktop research to supplement your information. Viability checks and strategy development to improve viability are also included in the full Business plan consultancy service.</p>
+						<p>All our Business services are designed to produce professional & modern Business plans  which are written to 
+achieve their purpose and have content relevant to your business proposition.</p>
+						<p>Our fees also are  reasonable and  we guarantee that  our well experienced Consultants provide you the most 
+suitable business plan for your business.  Business plan we provide you explain all the expected outcome with 
+relevant input you would be putting to your business. We provide  Face to face meetings with you in your 
+locality are included in our full planning consultancy services as is desktop research to supplement your 
+information. Viability checks and strategy development to improve viability are also included in the full 
+Business plan consultancy service.</p>
 						
 				  </div>
 				</article>
 				<article>
-					<div class="heading">
-						 <div class="info">
+				<div class="info">
 							<ul>
 							  <li>
 							    <h2>Marketing Planning</h2>
 							  </li>
-							  <li></li></ul>
-							<div class="clearboth"></div>
-					  </div>
-						<img src="images/inacup_samoa.jpg" />
-					</div>
-                    <div class="info">
-							<ul>
-							  <li>
-							    <h2>Marketing Planning</h2>
-							  </li>
-							  <li></li></ul>
-							<div class="clearboth"></div>
 			    </div>
+					<div class="heading">
+						 <img src="images/Marketing-Blackboard.jpg" />
+					</div>
 					<div class="content">
-						<p>The two main elements of this plan are market research to identify and anticipate customer requirements and the planning of an appropriate marketing mix to meet these requirements. Either it is a newly formed company or an existing company, R &S Consultancy LTD is an expert on providing you with the most accurate marketing plan for your business to enhance your clients/customer  base and  improve your sales to make your business successful.</p>
+						<p>The two main elements of this plan are market research to identify and anticipate customer requirements and 
+the planning of an appropriate marketing mix to meet these requirements. Either it is a newly formed company or 
+an existing company, R &S Consultancy LTD is an expert on providing you with the most accurate marketing plan 
+for your business to enhance your clients/customer  base and  improve your sales to make your business 
+successful.</p>
                       <p>Our Experienced & professional consultancy team would,</p>	
                         <ol style="padding: 0 0 4px 30px;">
 							<li type="circle">Assess how well your business is doing or will do  in its markets.</li>
 							<li type="circle">To identify current strengths and weaknesses in these markets.</li>
 							<li type="circle">To establish marketing objectives to be achieved in these markets. </li>
-                            <li type="circle">To establish a marketing mix for each market designed to achieve organisational objectives.</li>                       
+                            <li type="circle">To establish a marketing mix for each market designed to achieve organisational 
+objectives.</li>                       
 						</ol>					
 				  </div>
 				</article>
 				<article>
+				<div class="info">
+							<ul>
+							  <li>
+							    <h2>Investment Planning</h2>
+							  </li>
+					  </div>
 					<div class="heading">
-					  <div class="info">
-							<ul>
-							  <li>
-							    <h2>Investment Planning</h2>
-							  </li>
-							  <li></li></ul>
-							<div class="clearboth"></div>
-					  </div>
-					    <img src="images/inacup_pumpkin.jpg" />
+					  <img src="images/invesment_planing.jpg" />
 					</div>
-                    <div class="info">
-							<ul>
-							  <li>
-							    <h2>Investment Planning</h2>
-							  </li>
-							  <li></li></ul>
-							<div class="clearboth"></div>
-					  </div>
 					<div class="content">
-						<p>our aim is to bring you the most comprehensive source of financial advice and information in the UK. we are Matched by excellent standards of service and expertise, delivered with honesty and integrity .We adopt a partnership approach working with you. Our main Investment Services Involves,</p>
+						<p>our aim is to bring you the most comprehensive source of financial advice and information in the UK. we are 
+Matched by excellent standards of service and expertise, delivered with honesty and integrity .We adopt a 
+partnership approach working with you. Our main Investment Services Involves,</p>
 						<ul style="padding: 0 0 4px 30px;">
 							<li type="circle">Property investment / Buy to let</li>
 							<li type="circle">Pre and post retirement planning</li>
@@ -248,7 +231,9 @@
 					</div>
 			      <ul type="disc">
                   </br>
-				      <li>We also provide new business start up support which include all the required information from the beginning to  		                          start your business / Staff training and Recruitment Support / management Support.</li>
+				      <li>We also provide new business start up support which include all the required information from the beginning 
+to  		                          start your business / Staff training and Recruitment Support / management 
+Support.</li>
 			      </ul>
 				</article>
 			</div>
@@ -257,7 +242,8 @@
 					<div class="wrap-search">
 						<div id="search">
 							<div class="button-search"></div>
-							<input type="text" value="Search..." onFocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}" onBlur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
+							<input type="text" value="Search..." onFocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}"
+ onBlur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
 						</div>
 					</div>
 					<div class="social">
@@ -271,7 +257,9 @@
 					<div class="heading"><h2>About us</h2></div>
 					<div class="content">
 						<img src="images/zerotheme.png" style="border:none;"/>
-						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files.</p>
+						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the 
+template for both personal and commercial use. You must keep all copyright information and credit links in the 
+template and associated files.</p>
 					</div>
 				</section>
 				<section>
