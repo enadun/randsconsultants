@@ -162,10 +162,7 @@ are using an outdated browser. For a faster, safer browsing experience, upgrade 
 					<div class="heading">
 						<h2>BUSINESS CONSULTAION</h2>
 						<div class="info">
-							<ul>
-							  <li>
 							    <h2>Business Planning</h2>
-<<<<<<< HEAD
 				  </div>
 						<img src="images/business_planing.jpg"/>
 					</div>
@@ -178,45 +175,19 @@ relevant input you would be putting to your business. We provide  Face to face m
 locality are included in our full planning consultancy services as is desktop research to supplement your 
 information. Viability checks and strategy development to improve viability are also included in the full 
 Business plan consultancy service.</p>
-=======
-							  </li>
-							  <li></li></ul>
-							<div class="clearboth"></div>
-					  </div>
-						<img src="images/inacup_vanilla.jpg"/>
-					</div>
-                    
-	  <div class="content">
-						<p>All our Business services are designed to produce professional & modern Business plans  which are written to achieve their purpose and have content relevant to your business proposition.</p>
-						<p>Our fees also are  reasonable and  we guarantee that  our well experienced Consultants provide you the most suitable business plan for your business.  Business plan we provide you explain all the expected outcome with relevant input you would be putting to your business. We provide  Face to face meetings with you in your locality are included in our full planning consultancy services as is desktop research to supplement your information. Viability checks and strategy development to improve viability are also included in the full Business plan consultancy service.</p>
->>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
 						
 				  </div>
 				</article>
 				<article>
-<<<<<<< HEAD
 				<div class="info">
-=======
+
 					<div class="heading">
-						 <div class="info">
->>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
-							<ul>
-							  <li>
-							    <h2>Marketing Planning</h2>
-							  </li>
-<<<<<<< HEAD
-			    </div>
-					<div class="heading">
+					<h2>Marketing Planning</h2>
 						 <img src="images/Marketing-Blackboard.jpg" />
 					</div>
-=======
-							  <li></li></ul>
 							<div class="clearboth"></div>
 					  </div>
-						<img src="images/inacup_samoa.jpg" />
-					</div>
-                    
->>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
+
 					<div class="content">
 						<p>The two main elements of this plan are market research to identify and anticipate customer requirements and 
 the planning of an appropriate marketing mix to meet these requirements. Either it is a newly formed company or 
@@ -243,10 +214,7 @@ objectives.</li>
 					<div class="heading">
 					  <img src="images/invesment_planing.jpg" />
 					</div>
-<<<<<<< HEAD
-=======
-                    
->>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
+					
 					<div class="content">
 						<p>our aim is to bring you the most comprehensive source of financial advice and information in the UK. we are 
 Matched by excellent standards of service and expertise, delivered with honesty and integrity .We adopt a 
@@ -267,92 +235,7 @@ to  		                          start your business / Staff training and Recruit
 Support.</li>
 			      </ul>
 				</article>
-			</div>
-<<<<<<< HEAD
-			<div id="sidebar" class="col-1-3">
-				<section>
-					<div class="wrap-search">
-						<div id="search">
-							<div class="button-search"></div>
-							<input type="text" value="Search..." onFocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}"
- onBlur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
-						</div>
-					</div>
-					<div class="social">
-						<a href="#"><img src="images/facebook-icon.png" title="Facebook" /></a>
-						<a href="#"><img src="images/rss-icon.png" title="Rss"/></a>
-						<a href="#"><img src="images/google-icon.png" title="Google Plus"/></a>
-						<a href="#"><img src="images/linkedin-icon.png" title="Linkedin"/></a>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>About us</h2></div>
-					<div class="content">
-						<img src="images/zerotheme.png" style="border:none;"/>
-						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the 
-template for both personal and commercial use. You must keep all copyright information and credit links in the 
-template and associated files.</p>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Categories</h2></div>
-					<div class="content">
-						<ul>
-							<li><a href="http://www.zerotheme.com">Free Html5 Templates</a></li>
-							<li><a href="http://www.zerotheme.com">Free Responsive Themes</a></li>
-							<li><a href="http://www.zerotheme.com">Free Html5 and Css3 Themes</a></li>
-						</ul>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Gallery</h2></div>
-					<div class="content">
-						<div class="gallery">
-							<a href="#"><img src="images/port1.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port2.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port3.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port1.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port2.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port3.jpg" class="grayscale"/></a>
-						</div>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Popular Post</h2></div>
-					<div class="content">
-						<div class="post">
-							<img src="images/port1.jpg" width="50px"/>
-							<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port2.jpg" width="50px"/>
-							<h4><a href="#">Aliquam viverra convallis</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port3.jpg" width="50px"/>
-							<h4><a href="#">TSed accumsan libero</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port1.jpg" width="50px"/>
-							<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port2.jpg" width="50px"/>
-							<h4><a href="#">Aliquam viverra convallis</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-					</div>
-				</section>
-			</div>
-=======
->>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
-		</div>
-	</div>
-</section>
+			</section>
 <!--------------Footer--------------->
 <div class="wrap-footer">
 	<footer>

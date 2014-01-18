@@ -160,6 +160,7 @@
 				<article>
 					<div class="heading">
 						<h2><a href="#">Contact us</a></h2>
+						<img src="./images/big_logo.png"/>
 					</div>
 				  <div class="content">
 					<p></p>

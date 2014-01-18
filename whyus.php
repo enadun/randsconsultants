@@ -159,13 +159,8 @@
 			<div id="main-content" class="col-2-3" style="padding: 0 0 4px 110px;">
 				<article>
 					<div class="heading">
-<<<<<<< HEAD
-						<h2><a href="#">Flexible fee</a></h2>
-						<img src="images/flexible_payments.jpg"/>
-=======
 						<h2>Flexible fee</h2>
-						<img src="images/inacup_vanilla.jpg"/>
->>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
+						<img src="images/flexible_payments.jpg"/>
 					</div>
 					<div class="content">
 						<p>We always guarantee that we either match or provide services for  cheaper cost than our competitors. Some clients opt for an All Inclusive contract, in which monthly fees are fixed which reduces financial risk and provides predictable cash-flow. Others opt for Variable Rate agreements, where fees vary according to demand and usage. Overall, we aim to offer flexibility to suit all budgets.</p>
@@ -176,7 +171,7 @@
 				<article>
 					<div class="heading">
 						<h2>Unrivalled customer service</h2>
-						<img src="images/inacup_samoa.jpg" />
+						<img src="images/customer_service.png" />
 					</div>
 					<div class="content">
 						<p>Our job and aim  is to do the best job for you, and that is why our clients control the bonuses received by our consultants. If you are unhappy with the service you receive, we give you an option to explain why you are unhappy & we would provide you extra services for that to make you happy & to make your business successful</p>
@@ -186,7 +181,7 @@
 				<article>
 					<div class="heading">
 						<h2>Open, flexible attitude</h2>
-						<img src="images/inacup_pumpkin.jpg" />
+						<img src="images/open_attitude.png" />
 					</div>
 					<div class="content">
 						<p>Our company & business in mainly depended  on your satisfaction for the service we provide.  Our clients ,/customers are welcome to contact our consultants in the whole week. We are always flexible  to provide the best service to you. we believe the attitude & Flexibility we have been and we always have with our clients is highly important for our business.</p>

@@ -198,7 +198,7 @@ business.</p>
 				</article>
 				<article>
 					<div class="heading">
-						<h3>Our Guaranteed Business Policy for our Clients</h3>
+						<h2>Our Guaranteed Business Policy for our Clients</h2>
 						<img src="images/flow-chart.png"/>
 					</div>
 				</article>
