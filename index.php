@@ -166,7 +166,7 @@ are using an outdated browser. For a faster, safer browsing experience, upgrade 
 							
 						  <div class="clearboth"></div>
 						</div>
-						<img src="images/inacup_vanilla.jpg"/>
+						<img src="images/marketing-plan-strategy.jpg"/>
 					</div>
 					<div class="content">
 						<p>A well written ,detailed and  comprehensive marketing & business plan is  one of the focal points of all 
