@@ -99,7 +99,7 @@
 	
 	<nav>
 		<ul>
-			<li class="current"><a>Home</a></li>
+			<li class="current"><a href="#">Home</a></li>
 			<li><a href="services.php">Services</a></li>
 			<li><a href="whyus.php">Why us</a></li>
 			<li><a href="retailmanagement.php">Retail Management</a></li>
