@@ -159,7 +159,7 @@
 			<div id="main-content" class="col-2-3" style="padding: 0 0 4px 110px;">
 				<article>
 					<div class="heading">
-						<h2><a href="#">Flexible fee</a></h2>
+						<h2>Flexible fee</h2>
 						<img src="images/inacup_vanilla.jpg"/>
 					</div>
 					<div class="content">
@@ -170,7 +170,7 @@
 				</article>
 				<article>
 					<div class="heading">
-						<h2><a href="#">Unrivalled customer service</a></h2>
+						<h2>Unrivalled customer service</h2>
 						<img src="images/inacup_samoa.jpg" />
 					</div>
 					<div class="content">
@@ -180,7 +180,7 @@
 				</article>
 				<article>
 					<div class="heading">
-						<h2><a href="#"><strong>Open, flexible attitude</strong></a></h2>
+						<h2>Open, flexible attitude</h2>
 						<img src="images/inacup_pumpkin.jpg" />
 					</div>
 					<div class="content">
