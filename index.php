@@ -95,6 +95,7 @@
 <!--------------Header--------------->
 <div class="wrap-header">
 <header> 
+<div>
 	<div id="logo"><a href="#"><img src="./images/logo.png"/></a></div>
 	<nav>
 		<ul>
@@ -105,6 +106,7 @@
 			<li><a href="contactus.php">Contact Us</a></li>
 		</ul>
 	</nav>
+	</div>
 </header>
 </div>
 <!--------------Slideshow--------------->
