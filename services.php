@@ -8,9 +8,9 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>zMooncake Free Html5 Responsive Template</title>
-	<meta name="description" content="Free Html5 Templates and Free Responsive Themes Designed by Kimmy | zerotheme.com">
-	<meta name="author" content="www.zerotheme.com">
+	<title>Randsconsultants</title>
+	<meta name="description" content="R&S Consultants LTD | randsconsultants.org">
+	<meta name="author" content="www.randsconsultants.org">
 	
     <!-- Mobile Specific Metas
   ================================================== -->
@@ -157,7 +157,7 @@ are using an outdated browser. For a faster, safer browsing experience, upgrade 
 <section id="content">
 	<div class="zerogrid">		
 		<div class="row">
-			<div id="main-content" class="col-2-3">
+			<div id="main-content" class="col-2-3" style="padding: 0 0 4px 110px;">
 				<article>
 					<div class="heading">
 						<h2>BUSINESS CONSULTAION</h2>
@@ -165,6 +165,7 @@ are using an outdated browser. For a faster, safer browsing experience, upgrade 
 							<ul>
 							  <li>
 							    <h2>Business Planning</h2>
+<<<<<<< HEAD
 				  </div>
 						<img src="images/business_planing.jpg"/>
 					</div>
@@ -177,19 +178,45 @@ relevant input you would be putting to your business. We provide  Face to face m
 locality are included in our full planning consultancy services as is desktop research to supplement your 
 information. Viability checks and strategy development to improve viability are also included in the full 
 Business plan consultancy service.</p>
+=======
+							  </li>
+							  <li></li></ul>
+							<div class="clearboth"></div>
+					  </div>
+						<img src="images/inacup_vanilla.jpg"/>
+					</div>
+                    
+	  <div class="content">
+						<p>All our Business services are designed to produce professional & modern Business plans  which are written to achieve their purpose and have content relevant to your business proposition.</p>
+						<p>Our fees also are  reasonable and  we guarantee that  our well experienced Consultants provide you the most suitable business plan for your business.  Business plan we provide you explain all the expected outcome with relevant input you would be putting to your business. We provide  Face to face meetings with you in your locality are included in our full planning consultancy services as is desktop research to supplement your information. Viability checks and strategy development to improve viability are also included in the full Business plan consultancy service.</p>
+>>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
 						
 				  </div>
 				</article>
 				<article>
+<<<<<<< HEAD
 				<div class="info">
+=======
+					<div class="heading">
+						 <div class="info">
+>>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
 							<ul>
 							  <li>
 							    <h2>Marketing Planning</h2>
 							  </li>
+<<<<<<< HEAD
 			    </div>
 					<div class="heading">
 						 <img src="images/Marketing-Blackboard.jpg" />
 					</div>
+=======
+							  <li></li></ul>
+							<div class="clearboth"></div>
+					  </div>
+						<img src="images/inacup_samoa.jpg" />
+					</div>
+                    
+>>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
 					<div class="content">
 						<p>The two main elements of this plan are market research to identify and anticipate customer requirements and 
 the planning of an appropriate marketing mix to meet these requirements. Either it is a newly formed company or 
@@ -216,6 +243,10 @@ objectives.</li>
 					<div class="heading">
 					  <img src="images/invesment_planing.jpg" />
 					</div>
+<<<<<<< HEAD
+=======
+                    
+>>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
 					<div class="content">
 						<p>our aim is to bring you the most comprehensive source of financial advice and information in the UK. we are 
 Matched by excellent standards of service and expertise, delivered with honesty and integrity .We adopt a 
@@ -237,6 +268,7 @@ Support.</li>
 			      </ul>
 				</article>
 			</div>
+<<<<<<< HEAD
 			<div id="sidebar" class="col-1-3">
 				<section>
 					<div class="wrap-search">
@@ -316,6 +348,8 @@ template and associated files.</p>
 					</div>
 				</section>
 			</div>
+=======
+>>>>>>> 3cc8cf20ceebc70de3814b863f6077a6d8084341
 		</div>
 	</div>
 </section>
