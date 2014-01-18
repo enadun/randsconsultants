@@ -160,7 +160,7 @@
 				<article>
 					<div class="heading">
 						<h2>Retail  Management</h2>
-						<img src="images/inacup_vanilla.jpg"/>
+						<img src="images/retail_business.jpg"/>
 					</div>
 					<div class="content">
 					  <p>From store openings to store closures RandS Consultant supports retailers with a broad range of services and resources to help them achieve their objectives. We assure that  your business will have our broad guidance and support throughout.</p>
@@ -174,16 +174,16 @@
 					<div>
                     
 						<ul style="padding: 0 0 4px 30px;">
-							<li type="circle">Project management to co-ordinate key tasks to critical deadlines</li>
-							<li type="circle">Introductions of new proven  Sales methods to improve sales</li>
-							<li type="circle">provision of quality support staff for store openings, closures and refits</li>
-                            <li type="circle">Advice and guide you to become successful among competitors</li>
-                            <li type="circle">Guidance on cost cutting to maximize profits</li>
-                            <li type="circle">Modern Marketing methods attract more customers</li>
-                            <li type="circle">Co-ordination of suppliers equipment and services to store</li>
-                            <li type="circle">Merchandising of displays to improve sales</li>
-                            <li type="circle">Stock management</li>
-                            <li type="circle">Cost control and budget adherence</li>
+							<li type="SQUARE">Project management to co-ordinate key tasks to critical deadlines</li>
+							<li type="SQUARE">Introductions of new proven  Sales methods to improve sales</li>
+							<li type="SQUARE">provision of quality support staff for store openings, closures and refits</li>
+                            <li type="SQUARE">Advice and guide you to become successful among competitors</li>
+                            <li type="SQUARE">Guidance on cost cutting to maximize profits</li>
+                            <li type="SQUARE">Modern Marketing methods attract more customers</li>
+                            <li type="SQUARE">Co-ordination of suppliers equipment and services to store</li>
+                            <li type="SQUARE">Merchandising of displays to improve sales</li>
+                            <li type="SQUARE">Stock management</li>
+                            <li type="SQUARE">Cost control and budget adherence</li>
 						</ul>
                    	
 					</div>
