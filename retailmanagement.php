@@ -118,31 +118,31 @@
 								<li>
 									<img src="images/image-slider-1.png" alt="" />
 										<div class="flex-caption">
-											<h3>Lorem ipsum dolor sit amet</h3>
+											<h3>Planning of an appropriate marketing mix</h3>
 										</div>
 								</li>
 								<li>
 									<a href="#"><img src="images/image-slider-2.png" alt="" /></a>
 										<div class="flex-caption">
-											<h3>Test Caption 2</h3>
+											<h3>Advice and guide you to become successful among competitors</h3>
 										</div>
 									</li>
 								<li>
 									<img src="images/image-slider-3.png" alt="" />
 									<div class="flex-caption">
-											<h3>Test Caption 3</h3>
+											<h3>Maximize profits</h3>
 										</div>
 								</li>
 								<li>
 									<img src="images/image-slider-4.png" alt="" />
 									<div class="flex-caption">
-											<h3>Test Caption 4</h3>
+											<h3>Financial advice and information</h3>
 										</div>
 								</li>
 								<li>
 									<img src="images/image-slider-5.png" alt="" />
 									<div class="flex-caption">
-											<h3>Test Caption 5</h3>
+											<h3>Provision of quality support staff</h3>
 										</div>
 								</li>
 								
@@ -174,16 +174,16 @@
 					<div>
                     
 						<ul style="padding: 0 0 4px 30px;">
-							<li type="SQUARE">Project management to co-ordinate key tasks to critical deadlines</li>
-							<li type="SQUARE">Introductions of new proven  Sales methods to improve sales</li>
-							<li type="SQUARE">provision of quality support staff for store openings, closures and refits</li>
-                            <li type="SQUARE">Advice and guide you to become successful among competitors</li>
-                            <li type="SQUARE">Guidance on cost cutting to maximize profits</li>
-                            <li type="SQUARE">Modern Marketing methods attract more customers</li>
-                            <li type="SQUARE">Co-ordination of suppliers equipment and services to store</li>
-                            <li type="SQUARE">Merchandising of displays to improve sales</li>
-                            <li type="SQUARE">Stock management</li>
-                            <li type="SQUARE">Cost control and budget adherence</li>
+							<li type="circle">Project management to co-ordinate key tasks to critical deadlines</li>
+							<li type="circle">Inroductions of new proven  sales methods to improve sales</li>
+							<li type="circle">Provision of quality support staff for store openings, closures and refits</li>
+                            <li type="circle">Advice and guide you to become successful among competitors</li>
+                            <li type="circle">Guidance on cost cutting to maximize profits</li>
+                            <li type="circle">Modern Marketing methods attract more customers</li>
+                            <li type="circle">Co-ordination of suppliers equipment and services to store</li>
+                            <li type="circle">Merchandising of displays to improve sales</li>
+                            <li type="circle">Stock management</li>
+                            <li type="circle">Cost control and budget adherence</li>
 						</ul>
                    	
 					</div>

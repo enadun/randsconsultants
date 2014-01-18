@@ -119,31 +119,31 @@ are using an outdated browser. For a faster, safer browsing experience, upgrade 
 								<li>
 									<img src="images/image-slider-1.png" alt="" />
 										<div class="flex-caption">
-											<h3>Lorem ipsum dolor sit amet</h3>
+											<h3>Planning of an appropriate marketing mix</h3>
 										</div>
 								</li>
 								<li>
 									<a href="#"><img src="images/image-slider-2.png" alt="" /></a>
 										<div class="flex-caption">
-											<h3>Test Caption 2</h3>
+											<h3>Advice and guide you to become successful among competitors</h3>
 										</div>
 									</li>
 								<li>
 									<img src="images/image-slider-3.png" alt="" />
 									<div class="flex-caption">
-											<h3>Test Caption 3</h3>
+											<h3>Maximize profits</h3>
 										</div>
 								</li>
 								<li>
 									<img src="images/image-slider-4.png" alt="" />
 									<div class="flex-caption">
-											<h3>Test Caption 4</h3>
+											<h3>Financial advice and information</h3>
 										</div>
 								</li>
 								<li>
 									<img src="images/image-slider-5.png" alt="" />
 									<div class="flex-caption">
-											<h3>Test Caption 5</h3>
+											<h3>Provision of quality support staff</h3>
 										</div>
 								</li>
 								
@@ -209,7 +209,7 @@ objectives.</li>
 							<ul>
 							  <li>
 							    <h2>Investment Planning</h2>
-							  </li>
+							  </li></ul>
 					  </div>
 					<div class="heading">
 					  <img src="images/invesment_planing.jpg" />
@@ -230,11 +230,14 @@ partnership approach working with you. Our main Investment Services Involves,</p
 					</div>
 			      <ul type="disc">
                   </br>
-				      <li>We also provide new business start up support which include all the required information from the beginning 
-to  		                          start your business / Staff training and Recruitment Support / management 
-Support.</li>
+				      <li>We also provide new business start up support which include all the required information from the beginning to  		                          start your business / Staff training and Recruitment Support / management Support.</li>
 			      </ul>
+				  
+			
 				</article>
+				</div>
+				  </div>
+			</div>
 			</section>
 <!--------------Footer--------------->
 <div class="wrap-footer">
