@@ -183,7 +183,7 @@
 						
 					</div>
 					<div class="content">
-						<p>Email : <a href="#"> info@rndconsultants.org </a> </p>
+						<p>Email : <a href="mailto:info@rndconsultants.org"> info@rndconsultants.org </a> </p>
 <p>Phone : 01244470180   Fax : 01244470182 </p>
 </div>
 			  </article>
