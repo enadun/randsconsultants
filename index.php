@@ -289,8 +289,7 @@ template and associated files.</p>
 <div class="wrap-footer">
 	<footer>
 		<div class="wrapfooter">
-		<p>Copyright © 2012 - <a href="http://www.zerotheme.com/432/free-responsive-html5-css3-website-templates.html" target="_blank">
-Free Responsive Html5 Templates</a> by <a href="http://www.zerotheme.com" target="_blank">Zerotheme.com</a></p>
+		<p>Copyright © 2014 - R&amp;S Consultants LTD</p>
 		</div>
 	</footer>
 </div>

@@ -155,75 +155,53 @@
 <!--------------Content--------------->
 <section id="content">
 	<div class="zerogrid">		
-		<div class="row">
+    <div class="row">
 			<div id="main-content" class="col-2-3">
 				<article>
 					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
+						<h2>Retail  Management</h2>
 						<img src="images/inacup_vanilla.jpg"/>
 					</div>
 					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio.</p>
-						<a class="more" href="#">Read more --></a>
+					  <p>From store openings to store closures RandS Consultant supports retailers with a broad range of services and resources to help them achieve their objectives. We assure that  your business will have our broad guidance and support throughout.</p>
+						<p>RandSConsultants has highly skilled experienced personnel attuned to the retail environment and can provide all levels of expertise from reverse pick to stock merchandising.</p>
+						<p>	Our store support services include:</p><div>
+  
+</div>	
+				  </div>
+                  <section>
+					
+					<div>
+                    
+						<ul style="padding: 0 0 4px 30px;">
+							<li type="circle">Project management to co-ordinate key tasks to critical deadlines</li>
+							<li type="circle">Introductions of new proven  Sales methods to improve sales</li>
+							<li type="circle">provision of quality support staff for store openings, closures and refits</li>
+                            <li type="circle">Advice and guide you to become successful among competitors</li>
+                            <li type="circle">Guidance on cost cutting to maximize profits</li>
+                            <li type="circle">Modern Marketing methods attract more customers</li>
+                            <li type="circle">Co-ordination of suppliers equipment and services to store</li>
+                            <li type="circle">Merchandising of displays to improve sales</li>
+                            <li type="circle">Stock management</li>
+                            <li type="circle">Cost control and budget adherence</li>
+						</ul>
+                   	
 					</div>
+			  </section>
+				  <p>We guarantee that  If  it's a new retail business or an existing retails  business, RandSConsultants take your business  to a top level with our professional guidance.</p>
 				</article>
-				<article>
-					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
-						<img src="images/inacup_samoa.jpg" />
-					</div>
-					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<a class="more" href="#">Read more --></a>
-					</div>
-				</article>
-				<article>
-					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
-						<img src="images/inacup_pumpkin.jpg" />
-					</div>
-					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<a class="more" href="#">Read more --></a>
-					</div>
-				</article>
+                
 			</div>
-			<div id="sidebar" class="col-1-3">
-				<section>
-					<div class="wrap-search">
-						<div id="search">
-							<div class="button-search"></div>
-							<input type="text" value="Search..." onFocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}" onBlur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
-						</div>
-					</div>
-					<div class="social">
-						<a href="#"><img src="images/facebook-icon.png" title="Facebook" /></a>
-						<a href="#"><img src="images/rss-icon.png" title="Rss"/></a>
-						<a href="#"><img src="images/google-icon.png" title="Google Plus"/></a>
-						<a href="#"><img src="images/linkedin-icon.png" title="Linkedin"/></a>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>About us</h2></div>
+            
+		  <div id="sidebar" class="col-1-3">
+		    <section>
+			  <div class="heading"><h2>About us</h2></div>
 					<div class="content">
 						<img src="images/zerotheme.png" style="border:none;"/>
 						<p>Free Html5 Templates created by <a href="http://www.zerotheme.com">Zerotheme</a>. You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files.</p>
 					</div>
-				</section>
-				<section>
+			</section>
+		    <section>
 					<div class="heading"><h2>Categories</h2></div>
 					<div class="content">
 						<ul>
@@ -232,50 +210,7 @@
 							<li><a href="http://www.zerotheme.com">Free Html5 and Css3 Themes</a></li>
 						</ul>
 					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Gallery</h2></div>
-					<div class="content">
-						<div class="gallery">
-							<a href="#"><img src="images/port1.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port2.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port3.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port1.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port2.jpg" class="grayscale"/></a>
-							<a href="#"><img src="images/port3.jpg" class="grayscale"/></a>
-						</div>
-					</div>
-				</section>
-				<section>
-					<div class="heading"><h2>Popular Post</h2></div>
-					<div class="content">
-						<div class="post">
-							<img src="images/port1.jpg" width="50px"/>
-							<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port2.jpg" width="50px"/>
-							<h4><a href="#">Aliquam viverra convallis</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port3.jpg" width="50px"/>
-							<h4><a href="#">TSed accumsan libero</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port1.jpg" width="50px"/>
-							<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-						<div class="post">
-							<img src="images/port2.jpg" width="50px"/>
-							<h4><a href="#">Aliquam viverra convallis</a></h4>
-							<p>November 11 ,2012</p>
-						</div>
-					</div>
-				</section>
+			  </section>
 			</div>
 		</div>
 	</div>
@@ -284,7 +219,7 @@
 <div class="wrap-footer">
 	<footer>
 		<div class="wrapfooter">
-		<p>Copyright © 2012 - <a href="http://www.zerotheme.com/432/free-responsive-html5-css3-website-templates.html" target="_blank">Free Responsive Html5 Templates</a> by <a href="http://www.zerotheme.com" target="_blank">Zerotheme.com</a></p>
+		<p>Copyright © 2014 - R&amp;S Consultants LTD</p>
 		</div>
 	</footer>
 </div>
