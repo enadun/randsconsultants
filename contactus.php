@@ -195,7 +195,7 @@
 <div class="wrap-footer">
 	<footer>
 		<div class="wrapfooter">
-		<p>Copyright © 2014 - R&amp;S Consultants LTD </p>
+		<p>Copyright © 2014 - R&amp;S Consultants LTD</p>
 		</div>
 	</footer>
 </div>

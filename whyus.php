@@ -8,8 +8,8 @@
     <!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>zMooncake Free Html5 Responsive Template</title>
-	<meta name="description" content="Free Html5 Templates and Free Responsive Themes Designed by Kimmy | zerotheme.com">
+	<title>R&S Consultant</title>
+	
 	<meta name="author" content="www.zerotheme.com">
 	
     <!-- Mobile Specific Metas
@@ -159,45 +159,33 @@
 			<div id="main-content" class="col-2-3">
 				<article>
 					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
+						<h2><a href="#">Flexible fee</a></h2>
 						<img src="images/inacup_vanilla.jpg"/>
 					</div>
 					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio.</p>
-						<a class="more" href="#">Read more --></a>
+						<p>We always guarantee that we either match or provide services for  cheaper cost than our competitors. Some clients opt for an All Inclusive contract, in which monthly fees are fixed which reduces financial risk and provides predictable cash-flow. Others opt for Variable Rate agreements, where fees vary according to demand and usage. Overall, we aim to offer flexibility to suit all budgets.</p>
+						
+						
 					</div>
 				</article>
 				<article>
 					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
+						<h2><a href="#">Unrivalled customer service</a></h2>
 						<img src="images/inacup_samoa.jpg" />
 					</div>
 					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<a class="more" href="#">Read more --></a>
+						<p>Our job and aim  is to do the best job for you, and that is why our clients control the bonuses received by our consultants. If you are unhappy with the service you receive, we give you an option to explain why you are unhappy & we would provide you extra services for that to make you happy & to make your business successful</p>
+						
 					</div>
 				</article>
 				<article>
 					<div class="heading">
-						<h2><a href="#">Sed accumsan libero quis mi commodo et suscipit enim lacinia</a></h2>
-						<div class="info">
-							<ul><li><span>By: </span>Admin</li><li><span>Date: </span>November 26, 2012</li><li><span>Categories: </span>Cake</li><li><span>Comments: </span>5</li></ul>
-							<div class="clearboth"></div>
-						</div>
+						<h2><a href="#"><strong>Open, flexible attitude</strong></a></h2>
 						<img src="images/inacup_pumpkin.jpg" />
 					</div>
 					<div class="content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra convallis auctor. Sed accumsan libero quis mi commodo et suscipit enim lacinia. Morbi rutrum vulputate est sed faucibus. Nulla sed nisl mauris, id tristique tortor. Sed iaculis dapibus urna nec dictum. Proin non enim odio. Proin vitae turpis libero, eget feugiat enim. Sed fringilla facilisis convallis.</p>
-						<a class="more" href="#">Read more --></a>
+						<p>Our company & business in mainly depended  on your satisfaction for the service we provide.  Our clients ,/customers are welcome to contact our consultants in the whole week. We are always flexible  to provide the best service to you. we believe the attitude & Flexibility we have been and we always have with our clients is highly important for our business.</p>
+						
 					</div>
 				</article>
 			</div>
