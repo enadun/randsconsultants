@@ -196,10 +196,10 @@ for your business to enhance your clients/customer  base and  improve your sales
 successful.</p>
                       <p>Our Experienced & professional consultancy team would,</p>	
                         <ol style="padding: 0 0 4px 30px;">
-							<li type="circle">Assess how well your business is doing or will do  in its markets.</li>
-							<li type="circle">To identify current strengths and weaknesses in these markets.</li>
-							<li type="circle">To establish marketing objectives to be achieved in these markets. </li>
-                            <li type="circle">To establish a marketing mix for each market designed to achieve organisational 
+							<li type="SQUARE">Assess how well your business is doing or will do  in its markets.</li>
+							<li type="SQUARE">To identify current strengths and weaknesses in these markets.</li>
+							<li type="SQUARE">To establish marketing objectives to be achieved in these markets. </li>
+                            <li type="SQUARE">To establish a marketing mix for each market designed to achieve organisational 
 objectives.</li>                       
 						</ol>					
 				  </div>
@@ -220,12 +220,12 @@ objectives.</li>
 Matched by excellent standards of service and expertise, delivered with honesty and integrity .We adopt a 
 partnership approach working with you. Our main Investment Services Involves,</p>
 						<ul style="padding: 0 0 4px 30px;">
-							<li type="circle">Property investment / Buy to let</li>
-							<li type="circle">Pre and post retirement planning</li>
-							<li type="circle">Work place retirement planning to include Group Pensions  and Occupational schemes.</li>
-                            <li type="circle">Tax efficient Saving and investing for future needs </li>
-                            <li type="circle">Private Medical and Long Term Care provision.</li>
-                            <li type="circle">Inheritance Tax mitigation and advice on trusts.</li>
+							<li type="SQUARE">Property investment / Buy to let</li>
+							<li type="SQUARE">Pre and post retirement planning</li>
+							<li type="SQUARE">Work place retirement planning to include Group Pensions  and Occupational schemes.</li>
+                            <li type="SQUARE">Tax efficient Saving and investing for future needs </li>
+                            <li type="SQUARE">Private Medical and Long Term Care provision.</li>
+                            <li type="SQUARE">Inheritance Tax mitigation and advice on trusts.</li>
 						</ul>
 					</div>
 			      <ul type="disc">

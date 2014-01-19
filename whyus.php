@@ -160,7 +160,7 @@
 				<article>
 					<div class="heading">
 						<h2>Flexible fee</h2>
-						<img src="images/flexible_payments.jpg"/>
+						<img src="images/flexible_payments.png"/>
 					</div>
 					<div class="content">
 						<p>We always guarantee that we either match or provide services for  cheaper cost than our competitors. Some clients opt for an All Inclusive contract, in which monthly fees are fixed which reduces financial risk and provides predictable cash-flow. Others opt for Variable Rate agreements, where fees vary according to demand and usage. Overall, we aim to offer flexibility to suit all budgets.</p>
